@@ -11,7 +11,10 @@
 4. Hello bytes, bye blocks- PCIe storage meets compute express link for memory expansion (CXL-SSD)
 
 
-## 2. Related Books
+## 2. Related Works (e.g. RDMA)
+
+
+## 3. Related Books
 
 1. A Primer on Memory Consistency and Cache Coherence
 
@@ -21,3 +24,7 @@
 
 4. Database Replication
 
+
+## 4. Open Source 
+
+1. Open Source SSD/NVM etc. simulators  http://camelab.org/pmwiki.php?n=Main.Tools
