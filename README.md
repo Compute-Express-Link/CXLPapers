@@ -15,6 +15,8 @@
 
 1. Cache Coherence: Rethinking Software Runtimes for Disaggregated Memory.
 
+2. Spark on Disaggreagated Memory: Optimizing Performance and Computing Resource Management of in-memory Big Data Analytics with Disaggregated Persistent Memory
+
 
 ## 3. Related Books
 
