@@ -2,13 +2,13 @@
 
 ## 1. CXL Paper
 
-1. Meta TPP:Transparent Page Placement protocol and Chameleon memory tracking 
+1. Meta TPP: Transparent Page Placement protocol and Chameleon memory tracking 
 
-2. MS zNUMA:First-generation Memory Disaggregation for Cloud Platforms
+2. MS zNUMA: First-generation Memory Disaggregation for Cloud Platforms
 
 3. KAIST DirectCXL: Direct Access, High-Performance Memory Disaggregation with DirectCXL
 
-4. Hello bytes, bye blocks- PCIe storage meets compute express link for memory expansion (CXL-SSD)
+4. CXL-SSD: Hello bytes, bye blocks- PCIe storage meets compute express link for memory expansion
 
 
 ## 2. Related Works (e.g. RDMA)
