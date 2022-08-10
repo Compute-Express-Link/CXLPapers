@@ -11,14 +11,19 @@
 4. CXL-SSD: Hello bytes, bye blocks- PCIe storage meets compute express link for memory expansion
 
 
-## 2. Related Works (e.g. RDMA)
+## 2. Industry Vendor Memory Models
+
+1. ARM: Synchronization Overview and Case Study on Arm Architecture
+
+
+## 3. Related Works (e.g. RDMA)
 
 1. Cache Coherence: Rethinking Software Runtimes for Disaggregated Memory.
 
 2. Spark on Disaggreagated Memory: Optimizing Performance and Computing Resource Management of in-memory Big Data Analytics with Disaggregated Persistent Memory
 
 
-## 3. Related Books
+## 4. Related Books
 
 1. A Primer on Memory Consistency and Cache Coherence
 
@@ -29,6 +34,6 @@
 4. Database Replication
 
 
-## 4. Open Source 
+## 5. Open Source 
 
 1. Open Source SSD/NVM etc. simulators  http://camelab.org/pmwiki.php?n=Main.Tools
