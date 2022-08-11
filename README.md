@@ -22,6 +22,8 @@
 
 2. Spark on Disaggreagated Memory: Optimizing Performance and Computing Resource Management of in-memory Big Data Analytics with Disaggregated Persistent Memory
 
+3. Persistence Semantics for Weak Memory
+
 
 ## 4. Related Books
 
