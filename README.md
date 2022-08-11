@@ -39,3 +39,12 @@
 1. Open Source SSD/NVM etc. simulators  http://camelab.org/pmwiki.php?n=Main.Tools
 
 2. Arch Concurrency Test http://diy.inria.fr/doc/litmus.html
+
+3. A working example of how to use the herd7 Memory Model Tool”
+https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/how-to-use-the-memory-model-tool
+
+4.“How to generate litmus tests automatically with the diy7 tool”
+https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/generate-litmus-tests-automatically-diy7-tool
+
+5.“Running litmus tests on hardware using litmus7”
+https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/running-litmus-tests-on-hardware-litmus7
