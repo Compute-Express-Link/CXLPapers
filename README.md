@@ -13,7 +13,10 @@
 
 ## 2. Industry Vendor Memory Models
 
-1. ARM: Synchronization Overview and Case Study on Arm Architecture
+1. Compute Express Link Overview
+
+2. ARM: Synchronization Overview and Case Study on Arm Architecture
+
 
 
 ## 3. Related Works (e.g. RDMA)
