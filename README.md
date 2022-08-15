@@ -47,9 +47,9 @@
 
 3. A working example of how to use the herd7 Memory Model Tool. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/how-to-use-the-memory-model-tool
 
-4. How to generate litmus tests automatically with the diy7 tool. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/generate-litmus-tests-automatically-diy7-tool
+4. How to generate litmus tests automatically with the diy7 tool. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/generate-litmus-tests-automatically-diy7-tool  http://diy.inria.fr/doc/gen.html
 
-5. Running litmus tests on hardware using litmus7. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/running-litmus-tests-on-hardware-litmus7
+5. Running litmus tests on hardware using litmus7. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/running-litmus-tests-on-hardware-litmus7 https://github.com/Compute-Express-Link/litmustestgen
 
 6. Murphi for Modeling. http://mclab.di.uniroma1.it/site/index.php/software/18-cmurphi
 
@@ -58,3 +58,11 @@
 8. Express axiomatic specifications of consistency models Cat, associated with the Herd tool. http://diy.inria.fr/herd/ . 
 
 9. The spec domain specific language allows for pipeline and coherence protocol implementations to be specified axiomatically http://check.cs.princeton.edu/#tools . 
+
+10. The ppcmem tool (https://www.cl.cam.ac.uk/~pes20/ppcmem/help.html) does something similar but is specialized for POWER and ARM memory models
+
+11. CppMem tool (http://svr- pes20-cppmem.cl.cam.ac.uk/cppmem/) is geared toward the C/C++ language-level memory model. 
+ 
+12. As far as operational models are concerned, the RMEM tool (https://www.cl.cam. ac.uk/~sf502/regressions/rmem/) has built-in operational models for ARM (multiple vari- ants), POWER (multiple variants), x86-TSO and RISC-V, and also allows for their behaviors to be explored.
+
+12.+ MemSynth (http: //memsynth.uwplse.org/) shows how a complete memory model satisfying the litmus tests can be synthesized.
