@@ -52,3 +52,9 @@
 5. Running litmus tests on hardware using litmus7. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/running-litmus-tests-on-hardware-litmus7
 
 6. Murphi for Modeling. http://mclab.di.uniroma1.it/site/index.php/software/18-cmurphi
+
+7. Alloy, Express axiomatic specifications of consistency models. http://alloy.mit.edu
+
+8. Express axiomatic specifications of consistency models Cat, associated with the Herd tool. http://diy.inria.fr/herd/ . 
+
+9. The spec domain specific language allows for pipeline and coherence protocol implementations to be specified axiomatically http://check.cs.princeton.edu/#tools . 
