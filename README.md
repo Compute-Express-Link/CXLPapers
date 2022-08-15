@@ -50,3 +50,5 @@
 4. How to generate litmus tests automatically with the diy7 tool. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/generate-litmus-tests-automatically-diy7-tool
 
 5. Running litmus tests on hardware using litmus7. https://community.arm.com/arm-community-blogs/b/architectures-and-processorsblog/posts/running-litmus-tests-on-hardware-litmus7
+
+6. Murphi for Modeling. http://mclab.di.uniroma1.it/site/index.php/software/18-cmurphi
