@@ -65,4 +65,4 @@
  
 12. As far as operational models are concerned, the RMEM tool (https://www.cl.cam. ac.uk/~sf502/regressions/rmem/) has built-in operational models for ARM (multiple vari- ants), POWER (multiple variants), x86-TSO and RISC-V, and also allows for their behaviors to be explored.
 
-12.+ MemSynth (http: //memsynth.uwplse.org/) shows how a complete memory model satisfying the litmus tests can be synthesized.
+13. MemSynth (http: //memsynth.uwplse.org/) shows how a complete memory model satisfying the litmus tests can be synthesized.
