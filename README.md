@@ -10,6 +10,8 @@
 
 4. CXL-SSD: Hello bytes, bye blocks- PCIe storage meets compute express link for memory expansion
 
+6. Pond: CXL-Based Memory Pooling Systems for Cloud Platforms
+
 
 ## 2. Industry Vendor Memory Models
 
